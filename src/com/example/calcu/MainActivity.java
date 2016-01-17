@@ -56,6 +56,7 @@ public class MainActivity extends Activity implements OnClickListener, android.v
 		btn_equal=(Button) findViewById(R.id.btn_equal);
 		et_input = (EditText) findViewById(R.id.et_input);
 		
+		
 		btn_0.setOnClickListener(this);
 		btn_1.setOnClickListener(this);
 		btn_2.setOnClickListener(this);
